@@ -8,7 +8,7 @@
 
 ---
 
-#### Managing Sevices
+#### Managing Services
 
 > to enable the service
 
