@@ -1,0 +1,16 @@
+CHANGE DIRECTORY 
+to navigate through the system
+
+# cd or # cd ~ : to navigate to the user home direc
+
+# cd - : to navigate to the previous working directory
+
+# cd / : to navigate to the root directoy
+
+# cd /path/to/direc/ : to navigate to the specific directory 
+
+# cd . : to be in the same directory
+
+# cd .. : to navigate to the parent directory 
+
+# cd ../.. : to navigate to the level 3 direc

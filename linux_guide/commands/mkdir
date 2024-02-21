@@ -1,0 +1,10 @@
+MAKE DIRECTORY 
+
+# mkdir [ direc_name ]
+
+# mkdir /path/to/direc : create direc at specific loc
+if all the parent direc are already available the target directory will be created else give error
+
+# mkdir -p /path/to/direc/ : creates direc with parent chaining without giving any error 
+if the parent direc available fine else it will create the parent chain path
+

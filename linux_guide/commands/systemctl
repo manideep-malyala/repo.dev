@@ -1,5 +1,12 @@
+SYSTEMCTL
+to deal with the system and service manager
+
 # systemctl status [ service_name ] : to check the status of the specific service
+
 # systemctl start [ service_name ] : to start the service
+
 # systemctl restart [ service_name ] : to restart the service
+
 # systemctl enable [ service_name ] : to enable the service over boot
+
 # systemctl enable [ service_name ] --now : to start the service and enable it over boot

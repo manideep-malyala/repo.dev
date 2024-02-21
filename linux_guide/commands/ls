@@ -1,0 +1,12 @@
+LIST
+to list contents of dir
+
+# ls : to list the files / direc in the present direc
+
+# ls /path/to/direc/ : to list the files and direc in the target direc
+
+# ls -l : to list the files / direcs in the long list format which provides additional info
+
+# ls -a : to list files / direc along with the hidden files / direcs
+
+# ls -la : to get the long listing of all the files / direc inc hidden 

@@ -1,0 +1,18 @@
+TOUCH 
+to deal with timestamps and empty file creations
+
+# touch file_name : create an empty file as specified 
+if the file is already avialable it will update the timestamp of that file
+
+# touch .file_name : creates an empty hidden file
+
+# touch {1..10}.txt : creates 100 text files 
+
+# touch -t YYYYMMDDHHMM file_name : to modify the timestamp of the file
+
+# touch -m file_name : to change the timestamp to the modification time
+
+# touch -a file_name : to change the timestamp to the access time
+
+
+
