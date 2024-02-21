@@ -1,0 +1,22 @@
+
+linux provides a feature called auto-completion 
+when we want to complete the command with automatic suggestions 
+we can use [tab]
+
+
+------------------------------
+[ example ]
+
+# ls /etc/yu        --> press tab to automatically complete the command 
+
+like this we can use the chain of auto completion suggestions to improve the speed of working with linux
+and in case if there are more than one suggestion : we have to double tab to get all the available suggestions
+
+# cd /etc/yu        --> double tab to get the multiple suggestion to complete
+
+this feature will be helpful if we forget some file or direc name and we want to see what are all the available options
+
+# cd /etc/          --> double tab
+
+------------------------------
+

@@ -1,0 +1,8 @@
+
+
+# clear : to clear the screen 
+# whichis [command] : to see the location of binary and man page of the specified command
+# reboot : to reboot the system
+# init 6 : to reboot the system : not recommended 
+# systemctl reboot : reboot the system
+# man builtins : to see all the builtin command

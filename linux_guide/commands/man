@@ -1,0 +1,14 @@
+manual pages provide various info realted to commands 
+
+# man man : to see the manual page of the man command
+# man [ command ] : to see the man page of specific command
+press q : to quit from the man page
+press h : to view the additonal info related to man page
+# man [ section number ]    [ command ] : to see the specific section of the man page
+/[keyword] : to search for any keyword inside the man page
+n : to move from top to bottom through the matches found
+N : to move from bottom to top through the matches found
+g or < : to navigate to the starting of the man page
+G or > : to navigate to the ending of the man page 
+# mandb : to update all the indexes of man db
+
